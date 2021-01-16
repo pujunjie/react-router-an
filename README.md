@@ -3,7 +3,7 @@
 如何安装？
 
 ```shell
-npm install react-router-animation
+npm install react-router-an
 ```
 
 如何使用？
@@ -12,4 +12,4 @@ npm install react-router-animation
 import RouterAn from 'react-router-an/dist'
 ```
 
-**参照examples** 
+**参照 examples**
