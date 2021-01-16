@@ -8,4 +8,8 @@ npm install react-router-animation
 
 如何使用？
 
+```shell
+import RouterAn from 'react-router-an/dist'
+```
+
 **参照examples** 
