@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+}
+
+.container {
+  position: absolute;
+  left: 0;
+  right: 0;
+  height: 900px;
+  text-align: center;
+}
