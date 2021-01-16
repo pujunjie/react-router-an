@@ -8,8 +8,18 @@
     "start": "webpack-dev-server --mode development",
     "build": "babel lib -d dist --copy-files"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "pjj",
+  "license": "MIT",
+  "keywords": [
+    "react",
+    "react-router",
+    "react-router-animation"
+  ],
+  "homepage": "https://github.com/pujunjie/react-router-animation",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pujunjie/react-router-animation"
+  },
   "devDependencies": {
     "babel-cli": "^6.26.0",
     "babel-core": "^6.26.3",
