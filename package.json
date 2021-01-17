@@ -1,6 +1,6 @@
 {
   "name": "react-router-an",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -15,10 +15,10 @@
     "react-router",
     "react-router-animation"
   ],
-  "homepage": "https://github.com/pujunjie/react-router-animation",
+  "homepage": "https://github.com/pujunjie/react-router-an",
   "repository": {
     "type": "git",
-    "url": "https://github.com/pujunjie/react-router-animation"
+    "url": "https://github.com/pujunjie/react-router-an"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",
